@@ -15,7 +15,7 @@ Ethical Hacker Resources
 - 🥅 2022 Goals: Create the most curated Pentester Resources and Reports available.
 - ⚡ Fun fact: Sometimes the time is not enough.
 - ⚡ Sophie Powered AI created and running stable.
-- ⚡ All Projects have now a opensource online status page.
+- ⚡ All Projects have now a opensource online [status](https://carlostkd.github.io/status) page.
 
 
 ## Join to the development!
