@@ -16,7 +16,7 @@ Ethical Hacker Resources
 - ⚡ Fun fact: Sometimes the time is not enough.
 - ⚡ Sophie Powered AI created and running stable.
 - ⚡ All Projects have now a opensource online [status](https://carlostkd.github.io/status) page.
--   [ ] #Passwords on the fly verification
+- :shipit:  #Passwords on the fly verification
 
 
 ## Join to the development!
