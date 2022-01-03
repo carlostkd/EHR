@@ -11,9 +11,11 @@ Ethical Hacker Resources
 ## Feel free to contribute to EHR!
 - 🔭 I’m currently working on this project to add more resources!
 - 🌱 I’m currently learning more programing languages.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Create the most curated Pentester Resources and Reports available.
-- ⚡ Fun fact: Sometimes the time is not enough
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2022 Goals: Create the most curated Pentester Resources and Reports available.
+- ⚡ Fun fact: Sometimes the time is not enough.
+- ⚡ Sophie Powered AI created and running stable.
+- ⚡ All Projects have now a opensource online status page.
 
 
 ## Join to the development!
@@ -37,3 +39,5 @@ Ethical Hacker Resources
 <img align="left" alt="powershell" width="26px" src="https://raw.githubusercontent.com/carlostkd/EHR/master/powershell.png" />
 <img align="left" alt="lua" width="26px" src="https://raw.githubusercontent.com/carlostkd/EHR/master/lua.png" />
 <img align="left" alt="lua" width="26px" src="https://raw.githubusercontent.com/carlostkd/EHR/master/c++.png" />
+
+UPDATED on 01.2022
