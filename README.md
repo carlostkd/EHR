@@ -46,4 +46,12 @@ Ethical Hacker Resources
 </p>
 
 
-<p align="center">UPDATED on 01.2022</p>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/carlostkd/EHR/master/ehr-sophie-2022.svg">
+
+</p>
+
+
+
+
