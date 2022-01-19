@@ -29,7 +29,7 @@ Ethical Hacker Resources
 | :----- | :------ |
 |**Deep Enumeration (stable )**| ![](https://app.bitrise.io/app/a2a0b888408d15d8/status.svg?token=6Fz1YAJL944eJLwmmbkQ9A&branch=master)|
 |**Sophie Powered AI (stable)**| ![](https://app.bitrise.io/app/a2a0b888408d15d8/status.svg?token=6Fz1YAJL944eJLwmmbkQ9A&branch=master)|
-|**Report tool (in developement)**| ![](https://app.bitrise.io/app/a2a0b888408d15d8/status.svg?token=6Fz1YAJL944eJLwmmbkQ9A&branch=stable)|
+|**Report tool <span style="color:red">in developement**</span>| ![](https://app.bitrise.io/app/a2a0b888408d15d8/status.svg?token=6Fz1YAJL944eJLwmmbkQ9A&branch=stable)|
 
 
 
