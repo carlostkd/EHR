@@ -46,4 +46,4 @@ Ethical Hacker Resources
 </p>
 
 
-UPDATED on 01.2022
+<p align="center">UPDATED on 01.2022</p>
