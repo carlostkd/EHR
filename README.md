@@ -42,7 +42,7 @@ Ethical Hacker Resources
 <img align="left" alt="lua" width="26px" src="https://raw.githubusercontent.com/carlostkd/EHR/master/c++.png" />
 
 
-<img src="https://raw.githubusercontent.com/carlostkd/ehr-sophie-ethical-hacking-resources.svg">
+<img src="https://raw.githubusercontent.com/carlostkd/ehr-sophie.svg">
 
 
 UPDATED on 01.2022
