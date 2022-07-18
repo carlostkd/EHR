@@ -16,7 +16,7 @@ Ethical Hacker Resources
 - ⚡ Fun fact: Sometimes the time is not enough.
 - ⚡ Sophie Powered AI created and running stable.
 - ⚡ All Projects have now a opensource online [status](https://carlostkd.github.io/status) page.
-- ⚡ Proton Privacy Decoded running stable.
+- ⚡ [Proton Privacy Decoded running stable.](https://github.com/carlostkd/Proton_Privacy_Decoded)
 - :shipit:   Passwords on the fly verification (in review)
 
 
