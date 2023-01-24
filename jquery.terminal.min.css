@@ -1,13 +1,4 @@
-{
-	loader: 'code-inject-loader',
-	options: {
-		transform: src => src.replace(/@license/, '')
-	}
-},
-{
-	loader: 'esbuild-loader',
-	...
-}
+
  
 
 
